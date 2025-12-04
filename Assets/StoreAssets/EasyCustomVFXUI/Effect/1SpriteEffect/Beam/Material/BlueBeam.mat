@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9185167257137402290
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlueBeam
+  m_Shader: {fileID: -6465566751694194690, guid: 6334a9b765543254c89b3a11a19eeff9, type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: 6334a9b765543254c89b3a11a19eeff9, type: 3}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _MainWidth: 0.106
+    - _Sub1Use: 1
+    - _Sub1Width: 0.427
+    - _Sub2Use: 1
+    - _Sub2Width: 0.584
+    - _SubBeamWidth: 0.577
+    m_Colors:
+    - _MainColor: {r: 0.21226418, g: 0.81099427, b: 1, a: 0}
+    - _Sub1Color: {r: 0.5370327, g: 3.2469974, b: 5.992157, a: 0}
+    - _Sub2Color: {r: 0.3054468, g: 1.1823967, b: 1.9622642, a: 0}
+  m_BuildTextureStacks: []

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ParallelogramGage30_Body
+  m_Shader: {fileID: -6465566751694194690, guid: f6905c3f1810c4649afbcb604d188494, type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: f6905c3f1810c4649afbcb604d188494, type: 3}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: _Progress
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Angle: 15
+    - _CutAngle: 30
+    - _FillAmount: 0.301
+    - _Float: 1
+    - _Gradation: 0
+    - _Power: 1
+    - _Progress: 0.331
+    - _isOverlayColor: 0
+    m_Colors:
+    - _Color: {r: 0.380429, g: 0.7830189, b: 0.6626664, a: 0}
+    - _Color2: {r: 0.4911185, g: 0.9528302, b: 0.26517445, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &5518412431658377842
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7

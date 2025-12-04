@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16439a8f0f4854c71b593ce540cf695d, type: 3}
+  m_Name: SongData 1
+  m_EditorClassIdentifier: 
+  songTitle: test1
+  artistName: test1
+  audioClip: {fileID: 8300000, guid: 1949474d7a15548aab56655d43fd6e9f, type: 3}
+  albumArt: {fileID: 21300000, guid: 2e087195055c6441a91f7f8b73780a37, type: 3}
+  bpm: 120
+  songDuration: 180
+  targetScore: 50000
+  difficulty: 3
+  emoteSpawnSpeed: 1
+  recommendedEmotes:
+  - {fileID: 11400000, guid: 061454149369c4fa08ee31683a80dbae, type: 2}
+  - {fileID: 11400000, guid: ddef44b19161b40b6853e9aaa32e155f, type: 2}
+  - {fileID: 11400000, guid: 38ed1c90518454a43b9fb39c369e8e31, type: 2}
+  recommendedEmoteBonus: 1.5
