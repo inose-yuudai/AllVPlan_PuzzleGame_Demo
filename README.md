@@ -40,5 +40,6 @@ Inspectorから操作できるように[SerializeField]を多用。一つのコ�
 東京ゲームダンジョン10に出展しました。中には何度もプレイしにきてくれる方もいました。
 
  [全世界ぶいちゅ〜ば〜計画！？公式X](https://x.com/technya_studio)
+ 
  [Unityroomリンク](https://unityroom.com/games/allvplan_musicgame_demo)
  
